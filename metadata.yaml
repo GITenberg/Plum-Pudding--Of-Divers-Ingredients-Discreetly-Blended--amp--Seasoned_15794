@@ -1,0 +1,41 @@
+_repo: Plum-Pudding--Of-Divers-Ingredients-Discreetly-Blended--amp--Seasoned_15794
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Morley, Christopher
+    alias: Morley, Christopher Darlington
+    birthdate: 1890
+    deathdate: 1957
+    gutenberg_agent_id: '109'
+    url: http://www.gutenberg.org/2009/agents/109
+    wikipedia: http://en.wikipedia.org/wiki/Christopher_Morley
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2005-05-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15794'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Essays'
+tableOfContents: The perfect reader -- The autogenesis of a poet -- The old reliable
+  -- In memoriam, Francis Barton Gummere -- Adventures at lunch time -- Secret transactions
+  of the Three Hours for Lunch Club -- Initiation -- Creed of the Three Hours for
+  Lunch Club -- A preface to the profession of journalism -- Fulton Street, and Walt
+  Whitman -- McSorley's -- A portrait -- Going to Philadelphia -- Our tricolor tie
+  -- The club of abandoned husbands -- West Broadway -- The rudeness of poets -- 1100
+  words -- Some inns -- The club in Hoboken -- The club at its worst -- A suburban
+  sentimentalist -- Gissing -- A dialogue -- At the Gasthof zum Ochsen -- Mr. Conrad's
+  new preface -- The little house -- Tadpoles -- Magic in Salamis -- Consider the
+  commuter -- The permanence of poetry -- Books of the sea -- Fallacious meditations
+  on criticism -- Letting out the furnace -- By the fireplace -- A city note-book
+  -- Thoughts in the subway -- Dempsey vs. Carpentier -- A letter to a sea captain.
+title: 'Plum Pudding: Of Divers Ingredients, Discreetly Blended & Seasoned'
+url: http://www.gutenberg.org/ebooks/15794
